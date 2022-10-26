@@ -1,0 +1,54 @@
+
+.body{
+    background-color:firebrick;
+}
+
+
+#article{
+    color:whitesmoke;
+    font-size: 13px;
+}
+
+#header{
+    color:greenyellow;
+}
+
+.ol{
+    color:azure;
+    font-family: sans-serif;
+}
+
+strong{
+    color:bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.h2{
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    color:aliceblue;
+}
+
+.i{
+    font-family: monospace;
+    font-size: 14px;
+    color: bisque;
+}
+
+#h2{
+    color: azure;
+}
+
+.p{
+    color:bisque
+}
+
+#ul{
+    color: blanchedalmond;
+    font: optional;
+}
+
+p{
+    color:beige;  
+}
